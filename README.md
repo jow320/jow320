@@ -10,17 +10,17 @@
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me: You can reach me on [Instagram](https://instagram.com/jow320) or via email at [jow_d3@hotmail.com](mailto:jow_d3@hotmail.com).
-
-## GitHub Stats
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jow320&theme=vue-dark&show_icons=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jow320&theme=vue-dark&layout=compact" />
-
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## GitHub Stats
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jow320&theme=vue-dark&layout=compact" />
+
+
 
 <!---
 jow320/jow320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
