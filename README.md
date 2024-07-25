@@ -1,8 +1,27 @@
-- 👋 Hi, I’m Victor Estevan
-- 👀 I’m interested at the moment in becoming a full time front end developer
-- 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me: You can reach on my instagram @jow320, and my email jow_d3@hotmail.com
+# 👋 Hi, I'm Victor Estevan
+
+![Profile Views](https://komarev.com/ghpvc/?username=jow320&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/jow320?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/jow320?label=Stars&style=social)
+
+## About Me
+
+- 👀 I’m currently focused on becoming a full-time Front End Developer.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 💞️ I’m looking to collaborate on any interesting project.
+- 📫 How to reach me: You can reach me on [Instagram](https://instagram.com/jow320) or via email at [jow_d3@hotmail.com](mailto:jow_d3@hotmail.com).
+
+## GitHub Stats
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jow320&theme=vue-dark&show_icons=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jow320&theme=vue-dark&layout=compact" />
+
+## Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jow320&theme=vue-dark&show_icons=true"  />
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jow320&theme=vue-dark&layout=compact" />
