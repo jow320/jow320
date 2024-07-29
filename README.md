@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Victor Estevan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jow320&color=blue)
-![wakatime](https://wakatime.com/badge/user/55fbac74-0403-4125-b232-af012801154c.svg)](https://wakatime.com/@55fbac74-0403-4125-b232-af012801154c)
+[![wakatime](https://wakatime.com/badge/user/55fbac74-0403-4125-b232-af012801154c.svg)](https://wakatime.com/@55fbac74-0403-4125-b232-af012801154c)
+
 ![GitHub Followers](https://img.shields.io/github/followers/jow320?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/jow320?label=Stars&style=social)
 
