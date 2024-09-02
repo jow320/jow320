@@ -9,7 +9,7 @@
 ## About Me
 
 - 👀 I’m currently focused on becoming a full-time Front End Developer.
-- 🌱 I’m currently learning JavaScript and Node.js.
+- 🌱 I’m currently learning JavaScript, Node.js, and TypeScript.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me: You can reach me on [Instagram](https://instagram.com/jow320) or via email at [jow_d3@hotmail.com](mailto:jow_d3@hotmail.com).
 
@@ -19,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## GitHub Stats
 
@@ -27,4 +28,4 @@
 <!---
 jow320/jow320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--- -> 
+---> 
