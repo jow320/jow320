@@ -9,7 +9,6 @@
 ## About Me
 
 - 👀 I’m currently focused on becoming a full-time Developer.
-- 🌱 I’m currently learning Node.js and Express.js
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me: You can reach me on [Instagram](https://instagram.com/jow320), email at [jow_d3@hotmail.com](mailto:jow_d3@hotmail.com) or [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-estevan-32187a22a/)
 
